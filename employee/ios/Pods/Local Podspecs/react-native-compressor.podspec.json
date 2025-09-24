@@ -1,0 +1,53 @@
+{
+  "name": "react-native-compressor",
+  "version": "1.12.0",
+  "summary": "Compress Image, Video, and Audio same like Whatsapp & Auto/Manual Compression | Background Upload | Download File | Create Video Thumbnail",
+  "homepage": "https://github.com/numandev1/react-native-compressor#readme",
+  "license": "MIT",
+  "authors": "numandev1 <muhammadnuman70@gmail.com> (https://github.com/numandev1)",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/numandev1/react-native-compressor.git",
+    "tag": "1.12.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [],
+    "React-RCTFabric": [],
+    "ReactCodegen": [],
+    "RCTRequired": [],
+    "RCTTypeSafety": [],
+    "ReactCommon/turbomodule/bridging": [],
+    "ReactCommon/turbomodule/core": [],
+    "React-NativeModulesApple": [],
+    "Yoga": [],
+    "React-Fabric": [],
+    "React-graphics": [],
+    "React-utils": [],
+    "React-featureflags": [],
+    "React-debug": [],
+    "React-ImageManager": [],
+    "React-rendererdebug": [],
+    "React-jsi": [],
+    "React-renderercss": [],
+    "hermes-engine": [],
+    "React-hermes": [],
+    "glog": [],
+    "boost": [],
+    "DoubleConversion": [],
+    "fast_float": [],
+    "fmt": [],
+    "RCT-Folly": [],
+    "SocketRocket": [],
+    "RCT-Folly/Fabric": []
+  },
+  "compiler_flags": "-DRCT_NEW_ARCH_ENABLED=1",
+  "pod_target_xcconfig": {
+    "HEADER_SEARCH_PATHS": "\"$(PODS_ROOT)/Headers/Private/Yoga\"",
+    "CLANG_CXX_LANGUAGE_STANDARD": "c++20",
+    "OTHER_CPLUSPLUSFLAGS": "$(inherited) -DRCT_NEW_ARCH_ENABLED=1 ",
+    "OTHER_SWIFT_FLAGS": "$(inherited) -DRCT_NEW_ARCH_ENABLED"
+  }
+}

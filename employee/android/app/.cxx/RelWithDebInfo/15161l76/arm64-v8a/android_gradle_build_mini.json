@@ -1,0 +1,115 @@
+{
+  "buildFiles": [
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/@react-native-community/datetimepicker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-ble-plx/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-compressor/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-image-crop-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/honestraj/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/honestraj/Documents/BikeStandApp/android/app/.cxx/RelWithDebInfo/15161l76/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/honestraj/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/honestraj/Documents/BikeStandApp/android/app/.cxx/RelWithDebInfo/15161l76/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "artifactName": "react_codegen_RNVectorIconsSpec",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
+      "artifactName": "react_codegen_rnreanimated",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "arm64-v8a",
+      "output": "/Users/honestraj/Documents/BikeStandApp/android/app/build/intermediates/cxx/RelWithDebInfo/15161l76/obj/arm64-v8a/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/03a4e521c10b35d5e793c80643a933e1/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNCImageCropPickerSpec::@702b02f8d2524609d414": {
+      "artifactName": "react_codegen_RNCImageCropPickerSpec",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "artifactName": "react_codegen_rngesturehandler_codegen",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "artifactName": "react_codegen_rnscreens",
+      "abi": "arm64-v8a",
+      "output": "/Users/honestraj/Documents/BikeStandApp/android/app/build/intermediates/cxx/RelWithDebInfo/15161l76/obj/arm64-v8a/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/03a4e521c10b35d5e793c80643a933e1/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so"
+      ]
+    },
+    "react_codegen_RNDateTimePickerCGen::@59b70ddc31ba2f8ef1d2": {
+      "artifactName": "react_codegen_RNDateTimePickerCGen",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "/Users/honestraj/Documents/BikeStandApp/android/app/build/intermediates/cxx/RelWithDebInfo/15161l76/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/honestraj/Documents/BikeStandApp/android/app/build/intermediates/cxx/RelWithDebInfo/15161l76/obj/arm64-v8a/libreact_codegen_safeareacontext.so",
+        "/Users/honestraj/Documents/BikeStandApp/android/app/build/intermediates/cxx/RelWithDebInfo/15161l76/obj/arm64-v8a/libreact_codegen_rnscreens.so",
+        "/Users/honestraj/Documents/BikeStandApp/android/app/build/intermediates/cxx/RelWithDebInfo/15161l76/obj/arm64-v8a/libreact_codegen_rnsvg.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/03a4e521c10b35d5e793c80643a933e1/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    },
+    "react_codegen_BlePlx::@0d03ad0a4a63aefc401b": {
+      "artifactName": "react_codegen_BlePlx",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "artifactName": "react_codegen_rnsvg",
+      "abi": "arm64-v8a",
+      "output": "/Users/honestraj/Documents/BikeStandApp/android/app/build/intermediates/cxx/RelWithDebInfo/15161l76/obj/arm64-v8a/libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/honestraj/.gradle/caches/8.14.1/transforms/03a4e521c10b35d5e793c80643a933e1/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so"
+      ]
+    },
+    "react_codegen_Compressor::@408161e29a6d5b274579": {
+      "artifactName": "react_codegen_Compressor",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "artifactName": "react_codegen_rnasyncstorage",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    }
+  }
+}

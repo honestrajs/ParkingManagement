@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "11c39e948b08f208e00f8bc053c0a0742d803d8a"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "ce4ec002020796c09dd799371e45defb9f27297d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "45e4d582cbb4dab2bbad3f624fad9ae567c66547"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "86a425be5a919d86729b85b2bc1d07da5ce413d4"
+    }
+  ]
+}

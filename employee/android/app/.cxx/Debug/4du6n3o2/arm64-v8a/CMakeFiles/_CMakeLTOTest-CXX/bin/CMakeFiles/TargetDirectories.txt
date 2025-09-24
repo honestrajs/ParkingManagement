@@ -1,0 +1,4 @@
+/Users/honestraj/Documents/BikeStandApp/android/app/.cxx/Debug/4du6n3o2/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/honestraj/Documents/BikeStandApp/android/app/.cxx/Debug/4du6n3o2/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/honestraj/Documents/BikeStandApp/android/app/.cxx/Debug/4du6n3o2/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/honestraj/Documents/BikeStandApp/android/app/.cxx/Debug/4du6n3o2/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/honestraj/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-vision-camera/android/build/intermediates/prefab_package/release/prefab",
+    "/Users/honestraj/.gradle/caches/8.14.1/transforms/d1e5353a467d62552ac99e35b5033ab0/transformed/react-android-0.80.1-release/prefab",
+    "/Users/honestraj/Documents/BikeStandApp/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/release/prefab",
+    "/Users/honestraj/.gradle/caches/8.14.1/transforms/2fef0e4b6b45d73fb5f627e1a259761f/transformed/hermes-android-0.80.1-release/prefab",
+    "/Users/honestraj/.gradle/caches/8.14.1/transforms/03a4e521c10b35d5e793c80643a933e1/transformed/fbjni-0.7.0/prefab"
+  ]
+}
